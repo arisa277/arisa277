@@ -1,5 +1,5 @@
 # Hi there😊 I am Arisa.
-I am a front-end developer from Japan based in Stockholm.
+I am a front-end developer based in Stockholm.
 
 I am currently looking for a job in Stocholm.
 
