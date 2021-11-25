@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, React, Nuxt**
 
-- 📫 How to reach me **arisanii.277@gmail.com**
+- 📫 Reach me **arisanii.277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
