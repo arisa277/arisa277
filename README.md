@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arisa</h1>
-<h3 align="center">A passionate frontend developer based in Stockholm</h3>
+<h3 align="center">A passionate frontend developer based in Japan</h3>
 
 - 🌱 I’m currently learning **Nodejs, TypeScript, mongoDB and JEST**
 
