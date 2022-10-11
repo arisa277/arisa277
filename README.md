@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs, TypeScript, mongoDB and JEST**
 
-- 👨‍💻 All of my projects are available at [https://arisanii.com](https://arisanii.com)
-
 - 💬 Ask me about **JavaScript, React, Nuxt**
-
-- 📫 Email **arisanii.277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
